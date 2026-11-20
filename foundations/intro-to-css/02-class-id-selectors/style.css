@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.class1 {
+    background-color: rgb(219, 111, 111);
+}
+
+#id1 {
+    color: rgb(16, 16, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+}
+
+#id2 {
+    background-color: rgb(91, 255, 91);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.class2 {
+    font-size: 25px;
+}
